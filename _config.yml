@@ -6,15 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Type
-email:       ''
+title:       Rants
+email:       'luis@luispuerto.net'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
-instagram:   ''
-facebook:    ''
+url:         'https://rants.luispuerto.net/' # The base hostname & protocol for your site
+twitter:     'lpuerto'
+github:      'luispuerto'
 
 markdown:  kramdown
 permalink: pretty
