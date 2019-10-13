@@ -1,16 +1,29 @@
-# Type: Minimal and Clean Free Jekyll Theme
+# [rants.luispuerto.net][] source code
 
-<img alt="Type: Minimal and Clean Free Jekyll Theme" src="https://user-images.githubusercontent.com/626005/63093493-c3daa880-bf65-11e9-860e-da88047cce24.png">
+![](images/pages/homer-rant.jpg)
 
-- [Configurations](#configurations)
-- [Deployment](#deployment)
-- [Posts](#posts)
-- [Pages](#pages)
-- [Navigation](#navigation)
-- [Disqus Comments](#disqus-comments)
-- [Google Analytics](#google-analytics)
-- [Social Media Links](#social-media-links)
-- [Update favicon](#update-favicon)
+Welcomed to **Rants**!! This is a small sub-blog from my [main blog][luispuerto-net]. Here I pretend to rant about things that happen to me or things I really think are quite odd, weird, unfair or not working properly. 
+
+Why ranting? Well, the question is. **Why not?**. Anyhow and first of all because venting out it good, and secondly, I really think of it as a way to give feedback. Feedback sometimes is the only tool we have to try to fix things that aren't under our control. 
+
+<!-- MarkdownTOC -->
+
+- [How this works?](#how-this-works)
+    - [Configurations](#configurations)
+    - [Deployment](#deployment)
+    - [Posts](#posts)
+    - [Pages](#pages)
+    - [Navigation](#navigation)
+    - [Disqus Comments](#disqus-comments)
+    - [Google Analytics](#google-analytics)
+    - [Social Media Links](#social-media-links)
+    - [Update favicon](#update-favicon)
+
+<!-- /MarkdownTOC -->
+
+## How this works?
+
+I'm using [Type][], from [Aspire Themes][], as a template. This is how it works this template. Spoiler alert!! I've done some modifications and additions, but I'll try to explain them in this Readme. 
 
 ### Configurations
 
@@ -206,8 +219,7 @@ Youtube
 You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
 
 
-### Aspire Themes
-
-👉 Visit [**aspirethemes.com**](http://bit.ly/type-jekyll-github-link) for more Jekyll, Ghost, and WordPress themes.
-
-<img alt="Aspire Themes" src="https://user-images.githubusercontent.com/626005/63092640-afe17780-bf62-11e9-9ea9-546489bb282c.png">
+[rants.luispuerto.net]: https://rants.luispuerto.net
+[Type]: https://github.com/aspirethemes/type
+[Aspire Themes]: http://aspirethemes.com
+[luispuerto-net]: https://luispuerto.net 
