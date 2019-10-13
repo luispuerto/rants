@@ -1,0 +1,103 @@
+/* ==========================================================================
+   UTILITY CLASSES
+   ========================================================================== */
+
+
+/*
+   Type
+   ========================================================================== */
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-nowrap {
+  white-space: nowrap;
+}
+
+/*
+   Text atributes
+   ========================================================================== */
+
+.red {
+  color: red; 
+}
+
+.blue {
+  color: blue; 
+}
+
+.green {
+  color: green; 
+}
+
+/*
+   Alignment
+   ========================================================================== */
+
+/* clearfix */
+
+.cf {
+  clear: both;
+}
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+/*
+   Images
+   ========================================================================== */
+
+/* image align left */
+
+.align-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+/* image align right */
+
+.align-right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+
+}
+
+/* image align center */
+
+.align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: intrinsic;
+}
+
+/* image align center-full */
+
+.align-center-full {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  img {
+    width: 100%
+  }
+}
