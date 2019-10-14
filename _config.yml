@@ -17,6 +17,7 @@ github:      'luispuerto'
 markdown:  kramdown
 permalink: pretty
 paginate:  10
+timezone: UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 sass:
   style: compressed
