@@ -45,3 +45,9 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+      comments: false
+  - scope: 
+      path: ''
+      type: posts
+    values: 
+      comments: true 
