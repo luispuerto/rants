@@ -2,6 +2,11 @@
 
 ![](images/pages/homer-rant.jpg)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/03fa9854-e8d3-4018-9577-caf5453235ba/deploy-status)](https://app.netlify.com/sites/zen-villani-a013b8/deploys)
+[![Jekyll](https://img.shields.io/badge/jekyll-4.0.0-blue.svg?logo=jekyll)][Jekyll]
+[![GitHub](https://img.shields.io/github/license/luispuerto/rants.luispuerto.net?label=code%20license&logo=open-source-initiative&color=#3DA639)][LICENSE]
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/content%20license-CC%20BY--NC--SA%204.0-lightgrey?logo=creative-commons)][LICENSE4CONTENT]
+
 Welcomed to **Rants**!! This is a small sub-blog from my [main blog][luispuerto-net]. Here I pretend to rant about things that happen to me or things I really think are quite odd, weird, unfair or not working properly. 
 
 Why ranting? Well, the question is. **Why not?**. Anyhow and first of all because venting out it good, and secondly, I really think of it as a way to give feedback. Feedback sometimes is the only tool we have to try to fix things that aren't under our control. 
@@ -18,6 +23,7 @@ Why ranting? Well, the question is. **Why not?**. Anyhow and first of all becaus
     - [Google Analytics](#google-analytics)
     - [Social Media Links](#social-media-links)
     - [Update favicon](#update-favicon)
+- [License](#license)
 
 <!-- /MarkdownTOC -->
 
@@ -218,8 +224,15 @@ Youtube
 
 You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
 
+## License
+
+The code of this project is under the MIT License —see the [LICENSE][] file for details. However, the content of the website is license under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license ——see the [LICENSE4CONTENT][] file for details.
+
 
 [rants.luispuerto.net]: https://rants.luispuerto.net
 [Type]: https://github.com/aspirethemes/type
 [Aspire Themes]: http://aspirethemes.com
 [luispuerto-net]: https://luispuerto.net 
+[LICENSE]: LICENSE
+[LICENSE4CONTENT]: LICENSE4CONTENT.txt
+[Jekyll]: https://jekyllrb.com
