@@ -19,7 +19,7 @@ I've updated to Safari 13 on my MBP and on my iPad. In the former one, I just up
 
 However, my iPhone, an old 5s that is still working pretty well, can't be updated beyond 12.4.2 because you decided that it isn't worth supporting it with your last software. It's fine and I totally understand that you could consider it a _vintage_ model. The device has really pay off the investment I did on it and it's still running strong after more than 5 years since it was released. In other words, I'm pretty much happy with it. 
 
-Yet… instead of not adding features to the Phone, you decided to remove them. I can no longer sync my phone with the rest of my devices. No tabs, no bookmarks, no passwords on Safari. It's now an island, or rather someone left cast-away in an island with no contact from others. 
+Yet… instead of not adding features to the Phone, you decided to remove them. I can no longer sync my phone with the rest of my devices. No tabs, ~~no bookmarks, no passwords~~[^2] on Safari. It's now an island, or rather someone left cast-away in an island with no contact from others. 
 
 It's my understanding that it has been the core idea of Apple to add features to its devices, year after year until they are replaced for new device or they are not longer able to hold the last version of the software. However, I never thought that the core idea of Apple was to strip the devices of capabilities because they can no longer be updated. 
 
@@ -31,3 +31,4 @@ This is filed as a bug because I'm assuming this has been a bug. Not only on the
 
 
 [^1]: Yeah... I know that for you a customer of just 10 years is nothing, since you have a 50 years history and some of your customers are as old as that. 
+[^2]: I have to say that since I wrote this, bookmarks and I guess passwords, has synced again on my old phone. Still, tabs are not syncing, in one way or another, which is a feature lost. 
