@@ -1,0 +1,19 @@
+/*------------------------------------*\
+  Components > Content
+\*------------------------------------*/
+
+.c-content {
+  .footnotes {
+    font-size: $font-size-small; 
+    line-height: $line-height-small; 
+    &::before {
+      display: block;
+      content: "Footnotes:";
+      font-weight: bold;
+      margin: 1em 0;
+      border: 0;
+      border-top: 1px solid black;
+      padding-top: 1em;
+    }
+  }
+}
