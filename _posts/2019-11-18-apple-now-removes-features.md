@@ -4,7 +4,7 @@ title: "Apple now removes features"
 date: 2019-10-14 07:06
 featured: true
 tags: [apple]
-image: /images/posts/Apple-logo.png'
+image: /images/posts/Apple-logo.png
 ---
 
 I really didn't expect that the first real rant here was going to feature Apple. The reality is that I have much bigger problems right now to rant about than this one. But this is somehow special because it feels a little bit like if a dear friend was doing something that you really don't like, was betraying you and they keep doing it. I hope this end up changing. 
